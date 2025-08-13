@@ -1,0 +1,2380 @@
+﻿[Design]
+Version=1.0
+HierarchyMode=3
+ChannelRoomNamingStyle=0
+ReleasesFolder=
+ChannelDesignatorFormatString=$Component_$RoomName
+ChannelRoomLevelSeperator=_
+OpenOutputs=1
+ArchiveProject=0
+TimestampOutput=0
+SeparateFolders=0
+TemplateLocationPath=
+PinSwapBy_Netlabel=1
+PinSwapBy_Pin=1
+AllowPortNetNames=0
+AllowSheetEntryNetNames=1
+AppendSheetNumberToLocalNets=0
+NetlistSinglePinNets=0
+DefaultConfiguration=Sources
+UserID=0xFFFFFFFF
+DefaultPcbProtel=1
+DefaultPcbPcad=0
+ReorderDocumentsOnCompile=1
+NameNetsHierarchically=0
+PowerPortNamesTakePriority=0
+AutoSheetNumbering=0
+AutoCrossReferences=0
+NewIndexingOfSheetSymbols=0
+PushECOToAnnotationFile=1
+DItemRevisionGUID=
+ReportSuppressedErrorsInMessages=0
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
+OutputPath=Project Outputs for CMRat_GEN2.8
+LogFolderPath=
+ManagedProjectGUID=
+IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
+CurrentVariant=FULL
+
+[Preferences]
+PrefsVaultGUID=
+PrefsRevisionGUID=
+
+[Document1]
+DocumentPath=CMRat.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
+DocumentPath=SCH\CM_MODULE.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=100
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NPGYFKCO
+
+[Document3]
+DocumentPath=SCH\CM_MODULE.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document4]
+DocumentPath=SCH\COVER PAGE.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WFBOTAXD
+
+[Document5]
+DocumentPath=SCH\Ethernet.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=500
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NVDDBLXV
+
+[Document6]
+DocumentPath=SCH\Ethernet.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document7]
+DocumentPath=SCH\HDMI.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=400
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KLNXXUEY
+
+[Document8]
+DocumentPath=SCH\HDMI.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=SCH\MISC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=800
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QGOPJFVU
+
+[Document10]
+DocumentPath=SCH\MISC.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document11]
+DocumentPath=SCH\PBC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=700
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RRSKJSHN
+
+[Document12]
+DocumentPath=SCH\PCIe.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=300
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XQAIIDQX
+
+[Document13]
+DocumentPath=SCH\PCIe.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document14]
+DocumentPath=SCH\PWR.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=900
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UBBWYBVL
+
+[Document15]
+DocumentPath=SCH\SD.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=600
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ASOHFWIT
+
+[Document16]
+DocumentPath=SCH\SD.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document17]
+DocumentPath=SCH\TOP.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ODCMMFIL
+
+[Document18]
+DocumentPath=SCH\USB_C.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=200
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=10
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FCXAYJKP
+
+[Document19]
+DocumentPath=SCH\USB_C.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document20]
+DocumentPath=PCB\CMRat_GEN2.8.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CHGXHCRS
+
+[Document21]
+DocumentPath=PCB\BitPiRat_GEN2.8.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UUHPXVFL
+
+[ProjectVariant1]
+UniqueID=494189B6-CC63-4B73-BC8C-04D020858C0F
+Description=FULL
+AllowFabrication=0
+ParameterCount=0
+VariationCount=15
+Variation1=Designator=MOD300|UniqueId=\YYOEPVVN|Kind=1|AlternatePart= 
+Variation2=Designator=R204|UniqueId=\DRJQZKUC|Kind=1|AlternatePart= 
+Variation3=Designator=R711|UniqueId=\TBAOXYNB|Kind=1|AlternatePart= 
+Variation4=Designator=R712|UniqueId=\XSJKDNQN|Kind=1|AlternatePart= 
+Variation5=Designator=C907|UniqueId=\HHPPGMFS|Kind=1|AlternatePart= 
+Variation6=Designator=R806|UniqueId=\QBFKDHAH|Kind=1|AlternatePart= 
+Variation7=Designator=R807|UniqueId=\YNBXDPYZ|Kind=1|AlternatePart= 
+Variation8=Designator=C404|UniqueId=\OCIMRGAC|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\GoogleDrive\Elektronika\! ALTIUM\LIBS\DB_DBLIB.DbLib/RES$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=ITEM_R10045|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=DB_DBLIB.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=RES$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES_0402_R|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Comment|VariantValue=0R
+ParamDesignator1=C404
+ParamVariation2=ParameterName=Case|VariantValue=0402
+ParamDesignator2=C404
+ParamVariation3=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator3=C404
+ParamVariation4=ParameterName=Database Table Name|VariantValue=RES$
+ParamDesignator4=C404
+ParamVariation5=ParameterName=Description|VariantValue=RES SMD 0Ω ±1% 62.5mW ±800ppm (0402)
+ParamDesignator5=C404
+ParamVariation6=ParameterName=Footprint|VariantValue=RES_0402_R
+ParamDesignator6=C404
+ParamVariation7=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator7=C404
+ParamVariation8=ParameterName=ITEM|VariantValue=ITEM_R10045
+ParamDesignator8=C404
+ParamVariation9=ParameterName=JLC Description|VariantValue=62.5mW Thick Film Resistors 50V ±800ppm/℃ ±1% 0Ω 0402 Chip Resistor - Surface Mount ROHS
+ParamDesignator9=C404
+ParamVariation10=ParameterName=JLCPCB Part #|VariantValue=C17168
+ParamDesignator10=C404
+ParamVariation11=ParameterName=Library Reference|VariantValue=ITEM_R10045
+ParamDesignator11=C404
+ParamVariation12=ParameterName=Manufacturer|VariantValue=UNI-ROYAL(Uniroyal Elec)
+ParamDesignator12=C404
+ParamVariation13=ParameterName=Manufacturer Part Number|VariantValue=0402WGF0000TCE
+ParamDesignator13=C404
+ParamVariation14=ParameterName=Mounting|VariantValue=S
+ParamDesignator14=C404
+ParamVariation15=ParameterName=PCB3D|VariantValue= 
+ParamDesignator15=C404
+ParamVariation16=ParameterName=Pin Info|VariantValue= 
+ParamDesignator16=C404
+ParamVariation17=ParameterName=Power|VariantValue=62.5mW
+ParamDesignator17=C404
+ParamVariation18=ParameterName=PPM|VariantValue=±800ppm
+ParamDesignator18=C404
+ParamVariation19=ParameterName=Price|VariantValue=0,0005
+ParamDesignator19=C404
+ParamVariation20=ParameterName=Resistance|VariantValue=0Ω
+ParamDesignator20=C404
+ParamVariation21=ParameterName=Resistor Type|VariantValue=Thick Film Resistors
+ParamDesignator21=C404
+ParamVariation22=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator22=C404
+ParamVariation23=ParameterName=Simulation|VariantValue= 
+ParamDesignator23=C404
+ParamVariation24=ParameterName=Stock|VariantValue=0
+ParamDesignator24=C404
+ParamVariation25=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator25=C404
+Variation9=Designator=C406|UniqueId=\UJMNGQNF|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\GoogleDrive\Elektronika\! ALTIUM\LIBS\DB_DBLIB.DbLib/RES$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=ITEM_R10045|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=DB_DBLIB.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=RES$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES_0402_R|AltLibLink_IsSameFootprint=False
+ParamVariation26=ParameterName=Comment|VariantValue=0R
+ParamDesignator26=C406
+ParamVariation27=ParameterName=Case|VariantValue=0402
+ParamDesignator27=C406
+ParamVariation28=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator28=C406
+ParamVariation29=ParameterName=Database Table Name|VariantValue=RES$
+ParamDesignator29=C406
+ParamVariation30=ParameterName=Description|VariantValue=RES SMD 0Ω ±1% 62.5mW ±800ppm (0402)
+ParamDesignator30=C406
+ParamVariation31=ParameterName=Footprint|VariantValue=RES_0402_R
+ParamDesignator31=C406
+ParamVariation32=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator32=C406
+ParamVariation33=ParameterName=ITEM|VariantValue=ITEM_R10045
+ParamDesignator33=C406
+ParamVariation34=ParameterName=JLC Description|VariantValue=62.5mW Thick Film Resistors 50V ±800ppm/℃ ±1% 0Ω 0402 Chip Resistor - Surface Mount ROHS
+ParamDesignator34=C406
+ParamVariation35=ParameterName=JLCPCB Part #|VariantValue=C17168
+ParamDesignator35=C406
+ParamVariation36=ParameterName=Library Reference|VariantValue=ITEM_R10045
+ParamDesignator36=C406
+ParamVariation37=ParameterName=Manufacturer|VariantValue=UNI-ROYAL(Uniroyal Elec)
+ParamDesignator37=C406
+ParamVariation38=ParameterName=Manufacturer Part Number|VariantValue=0402WGF0000TCE
+ParamDesignator38=C406
+ParamVariation39=ParameterName=Mounting|VariantValue=S
+ParamDesignator39=C406
+ParamVariation40=ParameterName=PCB3D|VariantValue= 
+ParamDesignator40=C406
+ParamVariation41=ParameterName=Pin Info|VariantValue= 
+ParamDesignator41=C406
+ParamVariation42=ParameterName=Power|VariantValue=62.5mW
+ParamDesignator42=C406
+ParamVariation43=ParameterName=PPM|VariantValue=±800ppm
+ParamDesignator43=C406
+ParamVariation44=ParameterName=Price|VariantValue=0,0005
+ParamDesignator44=C406
+ParamVariation45=ParameterName=Resistance|VariantValue=0Ω
+ParamDesignator45=C406
+ParamVariation46=ParameterName=Resistor Type|VariantValue=Thick Film Resistors
+ParamDesignator46=C406
+ParamVariation47=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator47=C406
+ParamVariation48=ParameterName=Simulation|VariantValue= 
+ParamDesignator48=C406
+ParamVariation49=ParameterName=Stock|VariantValue=0
+ParamDesignator49=C406
+ParamVariation50=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator50=C406
+Variation10=Designator=C405|UniqueId=\AXWQHEFT|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\GoogleDrive\Elektronika\! ALTIUM\LIBS\DB_DBLIB.DbLib/RES$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=ITEM_R10045|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=DB_DBLIB.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=RES$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES_0402_R|AltLibLink_IsSameFootprint=False
+ParamVariation51=ParameterName=Comment|VariantValue=0R
+ParamDesignator51=C405
+ParamVariation52=ParameterName=Case|VariantValue=0402
+ParamDesignator52=C405
+ParamVariation53=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator53=C405
+ParamVariation54=ParameterName=Database Table Name|VariantValue=RES$
+ParamDesignator54=C405
+ParamVariation55=ParameterName=Description|VariantValue=RES SMD 0Ω ±1% 62.5mW ±800ppm (0402)
+ParamDesignator55=C405
+ParamVariation56=ParameterName=Footprint|VariantValue=RES_0402_R
+ParamDesignator56=C405
+ParamVariation57=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator57=C405
+ParamVariation58=ParameterName=ITEM|VariantValue=ITEM_R10045
+ParamDesignator58=C405
+ParamVariation59=ParameterName=JLC Description|VariantValue=62.5mW Thick Film Resistors 50V ±800ppm/℃ ±1% 0Ω 0402 Chip Resistor - Surface Mount ROHS
+ParamDesignator59=C405
+ParamVariation60=ParameterName=JLCPCB Part #|VariantValue=C17168
+ParamDesignator60=C405
+ParamVariation61=ParameterName=Library Reference|VariantValue=ITEM_R10045
+ParamDesignator61=C405
+ParamVariation62=ParameterName=Manufacturer|VariantValue=UNI-ROYAL(Uniroyal Elec)
+ParamDesignator62=C405
+ParamVariation63=ParameterName=Manufacturer Part Number|VariantValue=0402WGF0000TCE
+ParamDesignator63=C405
+ParamVariation64=ParameterName=Mounting|VariantValue=S
+ParamDesignator64=C405
+ParamVariation65=ParameterName=PCB3D|VariantValue= 
+ParamDesignator65=C405
+ParamVariation66=ParameterName=Pin Info|VariantValue= 
+ParamDesignator66=C405
+ParamVariation67=ParameterName=Power|VariantValue=62.5mW
+ParamDesignator67=C405
+ParamVariation68=ParameterName=PPM|VariantValue=±800ppm
+ParamDesignator68=C405
+ParamVariation69=ParameterName=Price|VariantValue=0,0005
+ParamDesignator69=C405
+ParamVariation70=ParameterName=Resistance|VariantValue=0Ω
+ParamDesignator70=C405
+ParamVariation71=ParameterName=Resistor Type|VariantValue=Thick Film Resistors
+ParamDesignator71=C405
+ParamVariation72=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator72=C405
+ParamVariation73=ParameterName=Simulation|VariantValue= 
+ParamDesignator73=C405
+ParamVariation74=ParameterName=Stock|VariantValue=0
+ParamDesignator74=C405
+ParamVariation75=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator75=C405
+Variation11=Designator=C407|UniqueId=\ZGMUWRSF|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\GoogleDrive\Elektronika\! ALTIUM\LIBS\DB_DBLIB.DbLib/RES$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=ITEM_R10045|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=DB_DBLIB.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=RES$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES_0402_R|AltLibLink_IsSameFootprint=False
+ParamVariation76=ParameterName=Comment|VariantValue=0R
+ParamDesignator76=C407
+ParamVariation77=ParameterName=Case|VariantValue=0402
+ParamDesignator77=C407
+ParamVariation78=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator78=C407
+ParamVariation79=ParameterName=Database Table Name|VariantValue=RES$
+ParamDesignator79=C407
+ParamVariation80=ParameterName=Description|VariantValue=RES SMD 0Ω ±1% 62.5mW ±800ppm (0402)
+ParamDesignator80=C407
+ParamVariation81=ParameterName=Footprint|VariantValue=RES_0402_R
+ParamDesignator81=C407
+ParamVariation82=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator82=C407
+ParamVariation83=ParameterName=ITEM|VariantValue=ITEM_R10045
+ParamDesignator83=C407
+ParamVariation84=ParameterName=JLC Description|VariantValue=62.5mW Thick Film Resistors 50V ±800ppm/℃ ±1% 0Ω 0402 Chip Resistor - Surface Mount ROHS
+ParamDesignator84=C407
+ParamVariation85=ParameterName=JLCPCB Part #|VariantValue=C17168
+ParamDesignator85=C407
+ParamVariation86=ParameterName=Library Reference|VariantValue=ITEM_R10045
+ParamDesignator86=C407
+ParamVariation87=ParameterName=Manufacturer|VariantValue=UNI-ROYAL(Uniroyal Elec)
+ParamDesignator87=C407
+ParamVariation88=ParameterName=Manufacturer Part Number|VariantValue=0402WGF0000TCE
+ParamDesignator88=C407
+ParamVariation89=ParameterName=Mounting|VariantValue=S
+ParamDesignator89=C407
+ParamVariation90=ParameterName=PCB3D|VariantValue= 
+ParamDesignator90=C407
+ParamVariation91=ParameterName=Pin Info|VariantValue= 
+ParamDesignator91=C407
+ParamVariation92=ParameterName=Power|VariantValue=62.5mW
+ParamDesignator92=C407
+ParamVariation93=ParameterName=PPM|VariantValue=±800ppm
+ParamDesignator93=C407
+ParamVariation94=ParameterName=Price|VariantValue=0,0005
+ParamDesignator94=C407
+ParamVariation95=ParameterName=Resistance|VariantValue=0Ω
+ParamDesignator95=C407
+ParamVariation96=ParameterName=Resistor Type|VariantValue=Thick Film Resistors
+ParamDesignator96=C407
+ParamVariation97=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator97=C407
+ParamVariation98=ParameterName=Simulation|VariantValue= 
+ParamDesignator98=C407
+ParamVariation99=ParameterName=Stock|VariantValue=0
+ParamDesignator99=C407
+ParamVariation100=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator100=C407
+Variation12=Designator=C400|UniqueId=\CXQYBNEW|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\GoogleDrive\Elektronika\! ALTIUM\LIBS\DB_DBLIB.DbLib/RES$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=ITEM_R10045|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=DB_DBLIB.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=RES$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES_0402_R|AltLibLink_IsSameFootprint=False
+ParamVariation101=ParameterName=Comment|VariantValue=0R
+ParamDesignator101=C400
+ParamVariation102=ParameterName=Case|VariantValue=0402
+ParamDesignator102=C400
+ParamVariation103=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator103=C400
+ParamVariation104=ParameterName=Database Table Name|VariantValue=RES$
+ParamDesignator104=C400
+ParamVariation105=ParameterName=Description|VariantValue=RES SMD 0Ω ±1% 62.5mW ±800ppm (0402)
+ParamDesignator105=C400
+ParamVariation106=ParameterName=Footprint|VariantValue=RES_0402_R
+ParamDesignator106=C400
+ParamVariation107=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator107=C400
+ParamVariation108=ParameterName=ITEM|VariantValue=ITEM_R10045
+ParamDesignator108=C400
+ParamVariation109=ParameterName=JLC Description|VariantValue=62.5mW Thick Film Resistors 50V ±800ppm/℃ ±1% 0Ω 0402 Chip Resistor - Surface Mount ROHS
+ParamDesignator109=C400
+ParamVariation110=ParameterName=JLCPCB Part #|VariantValue=C17168
+ParamDesignator110=C400
+ParamVariation111=ParameterName=Library Reference|VariantValue=ITEM_R10045
+ParamDesignator111=C400
+ParamVariation112=ParameterName=Manufacturer|VariantValue=UNI-ROYAL(Uniroyal Elec)
+ParamDesignator112=C400
+ParamVariation113=ParameterName=Manufacturer Part Number|VariantValue=0402WGF0000TCE
+ParamDesignator113=C400
+ParamVariation114=ParameterName=Mounting|VariantValue=S
+ParamDesignator114=C400
+ParamVariation115=ParameterName=PCB3D|VariantValue= 
+ParamDesignator115=C400
+ParamVariation116=ParameterName=Pin Info|VariantValue= 
+ParamDesignator116=C400
+ParamVariation117=ParameterName=Power|VariantValue=62.5mW
+ParamDesignator117=C400
+ParamVariation118=ParameterName=PPM|VariantValue=±800ppm
+ParamDesignator118=C400
+ParamVariation119=ParameterName=Price|VariantValue=0,0005
+ParamDesignator119=C400
+ParamVariation120=ParameterName=Resistance|VariantValue=0Ω
+ParamDesignator120=C400
+ParamVariation121=ParameterName=Resistor Type|VariantValue=Thick Film Resistors
+ParamDesignator121=C400
+ParamVariation122=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator122=C400
+ParamVariation123=ParameterName=Simulation|VariantValue= 
+ParamDesignator123=C400
+ParamVariation124=ParameterName=Stock|VariantValue=0
+ParamDesignator124=C400
+ParamVariation125=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator125=C400
+Variation13=Designator=C401|UniqueId=\UAQOPFAX|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\GoogleDrive\Elektronika\! ALTIUM\LIBS\DB_DBLIB.DbLib/RES$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=ITEM_R10045|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=DB_DBLIB.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=RES$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES_0402_R|AltLibLink_IsSameFootprint=False
+ParamVariation126=ParameterName=Comment|VariantValue=0R
+ParamDesignator126=C401
+ParamVariation127=ParameterName=Case|VariantValue=0402
+ParamDesignator127=C401
+ParamVariation128=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator128=C401
+ParamVariation129=ParameterName=Database Table Name|VariantValue=RES$
+ParamDesignator129=C401
+ParamVariation130=ParameterName=Description|VariantValue=RES SMD 0Ω ±1% 62.5mW ±800ppm (0402)
+ParamDesignator130=C401
+ParamVariation131=ParameterName=Footprint|VariantValue=RES_0402_R
+ParamDesignator131=C401
+ParamVariation132=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator132=C401
+ParamVariation133=ParameterName=ITEM|VariantValue=ITEM_R10045
+ParamDesignator133=C401
+ParamVariation134=ParameterName=JLC Description|VariantValue=62.5mW Thick Film Resistors 50V ±800ppm/℃ ±1% 0Ω 0402 Chip Resistor - Surface Mount ROHS
+ParamDesignator134=C401
+ParamVariation135=ParameterName=JLCPCB Part #|VariantValue=C17168
+ParamDesignator135=C401
+ParamVariation136=ParameterName=Library Reference|VariantValue=ITEM_R10045
+ParamDesignator136=C401
+ParamVariation137=ParameterName=Manufacturer|VariantValue=UNI-ROYAL(Uniroyal Elec)
+ParamDesignator137=C401
+ParamVariation138=ParameterName=Manufacturer Part Number|VariantValue=0402WGF0000TCE
+ParamDesignator138=C401
+ParamVariation139=ParameterName=Mounting|VariantValue=S
+ParamDesignator139=C401
+ParamVariation140=ParameterName=PCB3D|VariantValue= 
+ParamDesignator140=C401
+ParamVariation141=ParameterName=Pin Info|VariantValue= 
+ParamDesignator141=C401
+ParamVariation142=ParameterName=Power|VariantValue=62.5mW
+ParamDesignator142=C401
+ParamVariation143=ParameterName=PPM|VariantValue=±800ppm
+ParamDesignator143=C401
+ParamVariation144=ParameterName=Price|VariantValue=0,0005
+ParamDesignator144=C401
+ParamVariation145=ParameterName=Resistance|VariantValue=0Ω
+ParamDesignator145=C401
+ParamVariation146=ParameterName=Resistor Type|VariantValue=Thick Film Resistors
+ParamDesignator146=C401
+ParamVariation147=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator147=C401
+ParamVariation148=ParameterName=Simulation|VariantValue= 
+ParamDesignator148=C401
+ParamVariation149=ParameterName=Stock|VariantValue=0
+ParamDesignator149=C401
+ParamVariation150=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator150=C401
+Variation14=Designator=C402|UniqueId=\HJKJBRKO|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\GoogleDrive\Elektronika\! ALTIUM\LIBS\DB_DBLIB.DbLib/RES$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=ITEM_R10045|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=DB_DBLIB.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=RES$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES_0402_R|AltLibLink_IsSameFootprint=False
+ParamVariation151=ParameterName=Comment|VariantValue=0R
+ParamDesignator151=C402
+ParamVariation152=ParameterName=Case|VariantValue=0402
+ParamDesignator152=C402
+ParamVariation153=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator153=C402
+ParamVariation154=ParameterName=Database Table Name|VariantValue=RES$
+ParamDesignator154=C402
+ParamVariation155=ParameterName=Description|VariantValue=RES SMD 0Ω ±1% 62.5mW ±800ppm (0402)
+ParamDesignator155=C402
+ParamVariation156=ParameterName=Footprint|VariantValue=RES_0402_R
+ParamDesignator156=C402
+ParamVariation157=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator157=C402
+ParamVariation158=ParameterName=ITEM|VariantValue=ITEM_R10045
+ParamDesignator158=C402
+ParamVariation159=ParameterName=JLC Description|VariantValue=62.5mW Thick Film Resistors 50V ±800ppm/℃ ±1% 0Ω 0402 Chip Resistor - Surface Mount ROHS
+ParamDesignator159=C402
+ParamVariation160=ParameterName=JLCPCB Part #|VariantValue=C17168
+ParamDesignator160=C402
+ParamVariation161=ParameterName=Library Reference|VariantValue=ITEM_R10045
+ParamDesignator161=C402
+ParamVariation162=ParameterName=Manufacturer|VariantValue=UNI-ROYAL(Uniroyal Elec)
+ParamDesignator162=C402
+ParamVariation163=ParameterName=Manufacturer Part Number|VariantValue=0402WGF0000TCE
+ParamDesignator163=C402
+ParamVariation164=ParameterName=Mounting|VariantValue=S
+ParamDesignator164=C402
+ParamVariation165=ParameterName=PCB3D|VariantValue= 
+ParamDesignator165=C402
+ParamVariation166=ParameterName=Pin Info|VariantValue= 
+ParamDesignator166=C402
+ParamVariation167=ParameterName=Power|VariantValue=62.5mW
+ParamDesignator167=C402
+ParamVariation168=ParameterName=PPM|VariantValue=±800ppm
+ParamDesignator168=C402
+ParamVariation169=ParameterName=Price|VariantValue=0,0005
+ParamDesignator169=C402
+ParamVariation170=ParameterName=Resistance|VariantValue=0Ω
+ParamDesignator170=C402
+ParamVariation171=ParameterName=Resistor Type|VariantValue=Thick Film Resistors
+ParamDesignator171=C402
+ParamVariation172=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator172=C402
+ParamVariation173=ParameterName=Simulation|VariantValue= 
+ParamDesignator173=C402
+ParamVariation174=ParameterName=Stock|VariantValue=0
+ParamDesignator174=C402
+ParamVariation175=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator175=C402
+Variation15=Designator=C403|UniqueId=\EDEUEZSJ|Kind=2|AlternatePart=0R|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\GoogleDrive\Elektronika\! ALTIUM\LIBS\DB_DBLIB.DbLib/RES$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=ITEM_R10045|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=DB_DBLIB.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=RES$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES_0402_R|AltLibLink_IsSameFootprint=False
+ParamVariation176=ParameterName=Comment|VariantValue=0R
+ParamDesignator176=C403
+ParamVariation177=ParameterName=Case|VariantValue=0402
+ParamDesignator177=C403
+ParamVariation178=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator178=C403
+ParamVariation179=ParameterName=Database Table Name|VariantValue=RES$
+ParamDesignator179=C403
+ParamVariation180=ParameterName=Description|VariantValue=RES SMD 0Ω ±1% 62.5mW ±800ppm (0402)
+ParamDesignator180=C403
+ParamVariation181=ParameterName=Footprint|VariantValue=RES_0402_R
+ParamDesignator181=C403
+ParamVariation182=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator182=C403
+ParamVariation183=ParameterName=ITEM|VariantValue=ITEM_R10045
+ParamDesignator183=C403
+ParamVariation184=ParameterName=JLC Description|VariantValue=62.5mW Thick Film Resistors 50V ±800ppm/℃ ±1% 0Ω 0402 Chip Resistor - Surface Mount ROHS
+ParamDesignator184=C403
+ParamVariation185=ParameterName=JLCPCB Part #|VariantValue=C17168
+ParamDesignator185=C403
+ParamVariation186=ParameterName=Library Reference|VariantValue=ITEM_R10045
+ParamDesignator186=C403
+ParamVariation187=ParameterName=Manufacturer|VariantValue=UNI-ROYAL(Uniroyal Elec)
+ParamDesignator187=C403
+ParamVariation188=ParameterName=Manufacturer Part Number|VariantValue=0402WGF0000TCE
+ParamDesignator188=C403
+ParamVariation189=ParameterName=Mounting|VariantValue=S
+ParamDesignator189=C403
+ParamVariation190=ParameterName=PCB3D|VariantValue= 
+ParamDesignator190=C403
+ParamVariation191=ParameterName=Pin Info|VariantValue= 
+ParamDesignator191=C403
+ParamVariation192=ParameterName=Power|VariantValue=62.5mW
+ParamDesignator192=C403
+ParamVariation193=ParameterName=PPM|VariantValue=±800ppm
+ParamDesignator193=C403
+ParamVariation194=ParameterName=Price|VariantValue=0,0005
+ParamDesignator194=C403
+ParamVariation195=ParameterName=Resistance|VariantValue=0Ω
+ParamDesignator195=C403
+ParamVariation196=ParameterName=Resistor Type|VariantValue=Thick Film Resistors
+ParamDesignator196=C403
+ParamVariation197=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator197=C403
+ParamVariation198=ParameterName=Simulation|VariantValue= 
+ParamDesignator198=C403
+ParamVariation199=ParameterName=Stock|VariantValue=0
+ParamDesignator199=C403
+ParamVariation200=ParameterName=Tolerance|VariantValue=±1%
+ParamDesignator200=C403
+ParamVariationCount=200
+
+[Parameter1]
+Name=SchPcbVersion
+Value=V2.8
+
+[Parameter2]
+Name=PCBProjectName
+Value=CMRat Computer (GEN2.8)
+
+[Parameter3]
+Name=PCBMarking
+Value=GEN2.8
+
+[Parameter4]
+Name=OutputFileNamePrefix
+Value=CMRat_GEN2.8
+
+[Parameter5]
+Name=OutputFileNamePrefix
+Value=CMRat_GEN2.8
+
+[Parameter6]
+Name=GlobalProjectName
+Value=CMRat Computer
+
+[Configuration1]
+Name=Sources
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
+ConfigurationType=Source
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=Board Stack Report.XLT
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=-1
+SCH_VariantName=FULL
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=0
+Wir_PrintColor=0
+Ldr_PrintColor=0
+
+[Generic_EDE]
+OutputDir=Project Outputs for CMRat_GEN2.8
+
+[OutputGroup1]
+Name=Netlist Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=CadnetixNetlist
+OutputName1=Cadnetix Netlist
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=CalayNetlist
+OutputName2=Calay Netlist
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=EDIF
+OutputName3=EDIF for PCB
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=EESofNetlist
+OutputName4=EESof Netlist
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=IntergraphNetlist
+OutputName5=Intergraph Netlist
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=MentorBoardStationNetlist
+OutputName6=Mentor BoardStation Netlist
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=MultiWire
+OutputName7=MultiWire
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=OrCadPCB2Netlist
+OutputName8=Orcad/PCB2 Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=PADSNetlist
+OutputName9=PADS ASCII Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Pcad
+OutputName10=Pcad for PCB
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=PCADNetlist
+OutputName11=PCAD Netlist
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=PCADnltNetlist
+OutputName12=PCADnlt Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Protel2Netlist
+OutputName13=Protel2 Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=ProtelNetlist
+OutputName14=Protel
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=RacalNetlist
+OutputName15=Racal Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=RINFNetlist
+OutputName16=RINF Netlist
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SciCardsNetlist
+OutputName17=SciCards Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+
+[OutputGroup2]
+Name=Simulator Outputs
+Description=
+TargetPrinter=HP LaserJet Pro M12w wifi 192.168.1.51
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+
+[OutputGroup3]
+Name=Documentation Outputs
+Description=
+TargetPrinter=Virtual Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
+OutputType1=Composite
+OutputName1=Composite Drawing
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=2.39|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=A4 (210 x 297 mm)|PaperIndex=9
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+Configuration1_Name2=OutputConfigurationParameter2
+Configuration1_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=True|Name=New PrintOut 1|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+Configuration1_Name3=OutputConfigurationParameter3
+Configuration1_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomSolder|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+Configuration1_Name4=OutputConfigurationParameter4
+Configuration1_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical19|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+Configuration1_Name5=OutputConfigurationParameter5
+Configuration1_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical21|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+Configuration1_Name6=OutputConfigurationParameter6
+Configuration1_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+Configuration1_Name7=OutputConfigurationParameter7
+Configuration1_Item7=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=1|Mirror=True|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+Configuration1_Name8=OutputConfigurationParameter8
+Configuration1_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical20|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+Configuration1_Name9=OutputConfigurationParameter9
+Configuration1_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomSolder|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+Configuration1_Name10=OutputConfigurationParameter10
+Configuration1_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+OutputType2=PCB 3D Print
+OutputName2=PCB 3D Print
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=PCB 3D Video
+OutputName3=PCB 3D Video
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=PCB Print
+OutputName4=PCB Prints
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=PCBDrawing
+OutputName5=Draftsman
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=PCBLIB Print
+OutputName6=PCBLIB Prints
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=PDF3D
+OutputName7=PDF3D
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Report Print
+OutputName8=Report Prints
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Schematic Print
+OutputName9=Schematic Prints
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.98|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration9_Name1=OutputConfigurationParameter1
+Configuration9_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=E:\Bitpirat kopia\BitPirat Computer GEN2.5\Altium\[15] PWR.SchDoc
+OutputType10=SimView Print
+OutputName10=SimView Prints
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup4]
+Name=Assembly Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Test Points For Assembly
+OutputName1=Test Point Report
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+OutputType2=Pick Place
+OutputName2=Generates pick and place files
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+Configuration2_Name1=ForceUpdateSettings
+Configuration2_Item1=False
+Configuration2_Name2=OutputConfigurationParameter1
+Configuration2_Item2=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=True|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=True|IncludeStandardNoBOM=False|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:Descending,SortIndex:0,Position:6|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:8|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:3|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:4|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:5|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:9|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:10|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:15|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:16|Column#17=Name:MPN,Fixed:False,Metric:False,Visible:True,Sort:None,Position:1,Type:0|Column#18=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#19=Name:Component Subtype,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#20=Name:Component Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#21=Name:Package (Case),Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#22=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#23=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#24=Name:Mounting Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#25=Name:Supplier,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#26=Name:Specification,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#27=Name:Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#28=Name:Contact Gender,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#29=Name:Configuration,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#30=Name:Pitch,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38,Type:0|Column#31=Name:Power Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39,Type:0|Column#32=Name:Component Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#33=Name:ID,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#34=Name:Packaging Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#35=Name:Contact Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#36=Name:Orientation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#37=Name:Contact Plating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#38=Name:ROHS Status,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41,Type:0|Column#39=Name:Component Body,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#40=Name:Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40,Type:0|Column#41=Name:Pin Count,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#42=Name:Features,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#43=Name:TCR,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42,Type:0|Column#44=Name:Voltage Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44,Type:0|Column#45=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43,Type:0|Column#46=Name:Capacitance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45,Type:0|Column#47=Name:Dielectric,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46,Type:0|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+OutputType3=Assembly
+OutputName3=Assembly Drawings
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.80|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=13 x 18 cm (5 x 7 cali)|PaperIndex=273
+Configuration3_Name1=ForceUpdateSettings
+Configuration3_Item1=False
+Configuration3_Name2=OutputConfigurationParameter1
+Configuration3_Item2=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+Configuration3_Name3=OutputConfigurationParameter2
+Configuration3_Item3=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=SMD Assembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+Configuration3_Name4=OutputConfigurationParameter3
+Configuration3_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+Configuration3_Name5=OutputConfigurationParameter4
+Configuration3_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical19|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+Configuration3_Name6=OutputConfigurationParameter5
+Configuration3_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical21|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+Configuration3_Name7=OutputConfigurationParameter6
+Configuration3_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopSolder|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+Configuration3_Name8=OutputConfigurationParameter7
+Configuration3_Item8=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=1|Mirror=True|Name=THT Assembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+Configuration3_Name9=OutputConfigurationParameter8
+Configuration3_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+Configuration3_Name10=OutputConfigurationParameter9
+Configuration3_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical20|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+Configuration3_Name11=OutputConfigurationParameter10
+Configuration3_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomSolder|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+
+[OutputGroup5]
+Name=Fabrication Outputs
+Description=
+TargetPrinter=HP LaserJet Pro M12w wifi 192.168.1.51
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=NC Drill
+OutputName1=NC Drill Files
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+Configuration1_Name1=ForceUpdateSettings
+Configuration1_Item1=False
+Configuration1_Name2=OutputConfigurationParameter1
+Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=True|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=KeepLeadingAndTrailingZeroes|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+OutputType2=Mask
+OutputName2=Solder/Paste Mask Prints
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=IPC2581
+OutputName3=IPC-2581 Files
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=Test Points
+OutputName4=Test Point Report
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=Plane
+OutputName5=Power-Plane Prints
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=ODB
+OutputName6=ODB++ Files
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=Drill
+OutputName7=Drill Drawing/Guides
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=CompositeDrill
+OutputName8=Composite Drill Drawing
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Board Stack Report
+OutputName9=Report Board Stack
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
+OutputType11=Final
+OutputName11=Final Artwork Prints
+OutputDocumentPath11=
+OutputVariantName11=[No Variations]
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Gerber
+OutputName12=Gerber Files
+OutputDocumentPath12=
+OutputVariantName12=[No Variations]
+OutputDefault12=0
+Configuration12_Name1=ForceUpdateSettings
+Configuration12_Item1=False
+Configuration12_Name2=OutputConfigurationParameter1
+Configuration12_Item2=AddLayersToGroup.Group_0=0|AddLayersToGroup.Group_1=1|AddLayersToGroup.Group_2=2|AddLayersToGroup.Group_3=3|AddLayersToGroup.Group_4=4|AddLayersToGroup.Group_5=5|AddLayersToGroup.Group_6=7|AddLayersToGroup.Group_7=8|AddLayersToGroup.Set_0=16908289|AddLayersToGroup.Set_1=16908289|AddLayersToGroup.Set_2=16908289|AddLayersToGroup.Set_3=16908289|AddLayersToGroup.Set_4=16908289|AddLayersToGroup.Set_5=16908289|AddLayersToGroup.Set_6=16908289|AddLayersToGroup.Set_7=16908289|AddLayersToGroups.Count=8|AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16908289~1|BoardID=CHGXHCRS|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=KeepLeadingAndTrailingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908298~1|PlotBoardProfile=False|PlotBoardProfileFileName= |PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName= |UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName= |UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|DocumentPath=E:\PROJECTS\Bitpirat kopia\BitPirat Computer GEN2.6\Altium\BitPiRat_GEN2.6.PcbDoc
+
+[OutputGroup6]
+Name=Report Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1549|FormHeight=877|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Designator=120|Quantity=120|Component Type=100|Value=164|Package (Case)=211|Manufacturer=100|MPN=171|Description=142|Supplier=100
+Configuration1_Name7=VisibleOrder_Flat
+Configuration1_Item7=Designator=120|Quantity=120|Component Type=100|Value=164|Package (Case)=211|Manufacturer=100|MPN=171|Description=142|Supplier=100
+OutputType2=ComponentCrossReference
+OutputName2=Component Cross Reference Report
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=ReportHierarchy
+OutputName3=Report Project Hierarchy
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=Script
+OutputName4=Script Output
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=SimpleBOM
+OutputName5=Simple BOM
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=SinglePinNetReporter
+OutputName6=Report Single Pin Nets
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=BOM_ReportCompare
+OutputName7=BOM Compare
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Export Comments
+OutputName8=Export Comments
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup7]
+Name=Other Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Text Print
+OutputName1=Text Print
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Text Print
+OutputName2=Text Print
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=Text Print
+OutputName3=Text Print
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Text Print
+OutputName4=Text Print
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Text Print
+OutputName5=Text Print
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Text Print
+OutputName6=Text Print
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Text Print
+OutputName7=Text Print
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Text Print
+OutputName8=Text Print
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Text Print
+OutputName9=Text Print
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Text Print
+OutputName10=Text Print
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=Text Print
+OutputName11=Text Print
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Text Print
+OutputName12=Text Print
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=Text Print
+OutputName13=Text Print
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType14=Text Print
+OutputName14=Text Print
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType15=Text Print
+OutputName15=Text Print
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType16=Text Print
+OutputName16=Text Print
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType17=Text Print
+OutputName17=Text Print
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup8]
+Name=Validation Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_Violations
+OutputName1=BOM Checks Report
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=Component states check
+OutputName2=Server's components states check
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=Configuration compliance
+OutputName3=Environment configuration compliance check
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=Design Rules Check
+OutputName4=Design Rules Check
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Differences Report
+OutputName5=Differences Report
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Electrical Rules Check
+OutputName6=Electrical Rules Check
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Footprint Comparison Report
+OutputName7=Footprint Comparison Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+
+[OutputGroup9]
+Name=Export Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AutoCAD dwg/dxf PCB
+OutputName1=AutoCAD dwg/dxf File PCB
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=AutoCAD dwg/dxf Schematic
+OutputName2=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=ExportIDF
+OutputName3=Export IDF
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=ExportPARASOLID
+OutputName4=Export PARASOLID
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=ExportSTEP
+OutputName5=Export STEP
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=ExportVRML
+OutputName6=Export VRML
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=Save As/Export PCB
+OutputName7=Save As/Export PCB
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=Save As/Export Schematic
+OutputName8=Save As/Export Schematic
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=Specctra Design PCB
+OutputName9=Specctra Design PCB
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=MBAExportPARASOLID
+OutputName10=Export PARASOLID
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=MBAExportSTEP
+OutputName11=Export STEP
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+
+[OutputGroup10]
+Name=PostProcess Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Copy Files
+OutputName1=Copy Files
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+
+[Modification Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
+Type117=1
+Type118=1
+Type119=1
+
+[Difference Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=0
+Type6=0
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=0
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=0
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+
+[Electrical Rules Check]
+Type1=1
+Type2=1
+Type3=2
+Type4=1
+Type5=2
+Type6=2
+Type7=0
+Type8=1
+Type9=1
+Type10=1
+Type11=2
+Type12=0
+Type13=0
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
+Type24=1
+Type25=2
+Type26=0
+Type27=2
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=2
+Type33=0
+Type34=2
+Type35=1
+Type36=2
+Type37=1
+Type38=2
+Type39=2
+Type40=2
+Type41=0
+Type42=2
+Type43=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
+Type50=2
+Type51=0
+Type52=0
+Type53=1
+Type54=1
+Type55=1
+Type56=2
+Type57=1
+Type58=1
+Type59=2
+Type60=0
+Type61=0
+Type62=0
+Type63=0
+Type64=0
+Type65=2
+Type66=3
+Type67=2
+Type68=2
+Type69=2
+Type70=2
+Type71=2
+Type72=2
+Type73=2
+Type74=1
+Type75=2
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=2
+Type81=3
+Type82=3
+Type83=3
+Type84=3
+Type85=3
+Type86=2
+Type87=2
+Type88=2
+Type89=1
+Type90=1
+Type91=3
+Type92=3
+Type93=2
+Type94=2
+Type95=2
+Type96=2
+Type97=2
+Type98=0
+Type99=1
+Type100=2
+Type101=0
+Type102=2
+Type103=2
+Type104=1
+Type105=2
+Type106=2
+Type107=2
+Type108=2
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
+MultiChannelAlternate=0
+AlternateItemFail=3
+Type122=2
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+
+[ERC Connection Matrix]
+L1=NNNNNNNNNNNWNNNWW
+L2=NNWNNNNWWWNWNWNWN
+L3=NWEENEEEENEWNEEWN
+L4=NNENNNWEENNWNENWN
+L5=NNNNNNNNNNNNNNNNN
+L6=NNENNNNEENNWNENWN
+L7=NNEWNNWEENNWNENWN
+L8=NWEENEENEEENNEENN
+L9=NWEENEEEENEWNEEWW
+L10=NWNNNNNENNEWNNEWN
+L11=NNENNNNEEENWNENWN
+L12=WWWWNWWNWWWNWWWNN
+L13=NNNNNNNNNNNWNNNWW
+L14=NWEENEEEENEWNEEWW
+L15=NNENNNNEEENWNENWW
+L16=WWWWNWWNWWWNWWWNW
+L17=WNNNNNNNWNNNWWWWN
+
+[Annotate]
+SortOrder=3
+SortLocation=0
+ReplaceSubparts=0
+MatchParameter1=Comment
+MatchStrictly1=1
+MatchParameter2=Library Reference
+MatchStrictly2=1
+PhysicalNamingFormat=$Component_$RoomName
+GlobalIndexSortOrder=3
+GlobalIndexSortLocation=0
+
+[PrjClassGen]
+CompClassManualEnabled=0
+CompClassManualRoomEnabled=0
+NetClassAutoBusEnabled=1
+NetClassAutoCompEnabled=0
+NetClassAutoNamedHarnessEnabled=0
+NetClassManualEnabled=1
+NetClassSeparateForBusSections=0
+
+[LibraryUpdateOptions]
+SelectedOnly=1
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+FullReplace=1
+UpdateDesignatorLock=1
+UpdatePartIDLock=1
+PreserveParameterLocations=1
+PreserveParameterVisibility=1
+DoGraphics=1
+DoParameters=0
+DoModels=0
+AddParameters=0
+RemoveParameters=0
+AddModels=1
+RemoveModels=1
+UpdateCurrentModels=1
+
+[DatabaseUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=EDS500-lib.SchLib
+ComponentDesignItemID0=PCB_BARE_BOARD
+ComponentSymbolReference0=PCB_BARE_BOARD
+ComponentUpdate0=0
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=MirFol_db_local.DbLib/CONNECTOR$
+ComponentDesignItemID1=CON-0004
+ComponentSymbolReference1=CON_1X22_COL
+ComponentUpdate1=0
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=MirFol_db_local.DbLib/CONNECTOR$
+ComponentDesignItemID2=CON-0009
+ComponentSymbolReference2=CON_USB_TYPE_A_2X
+ComponentUpdate2=0
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=MirFol_db_local.DbLib/CONNECTOR$
+ComponentDesignItemID3=CON-0020
+ComponentSymbolReference3=CON_1X02_COL
+ComponentUpdate3=0
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=MirFol_db_local.DbLib/IC (MEMORY)$
+ComponentDesignItemID4=MEM-0001
+ComponentSymbolReference4=ICC_FOR_NCEMASLD
+ComponentUpdate4=0
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=MirFol_db_local.DbLib/IC (MISC)$
+ComponentDesignItemID5=ICC-0005
+ComponentSymbolReference5=ICC_SMT_RCLAMP0524PA
+ComponentUpdate5=0
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=MirFol_db_local.DbLib/IC (MISC)$
+ComponentDesignItemID6=ICC-0008
+ComponentSymbolReference6=ICC_DIO_AP2331
+ComponentUpdate6=0
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=MirFol_db_local.DbLib/IC (MISC)$
+ComponentDesignItemID7=ICC-0010
+ComponentSymbolReference7=ICC_NXP_PCF8523T
+ComponentUpdate7=0
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=MirFol_db_local.DbLib/IC (MISC)$
+ComponentDesignItemID8=ICC-0013
+ComponentSymbolReference8=ICC_ONS_FSUSB42_MSOP
+ComponentUpdate8=0
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=MirFol_db_local.DbLib
+ComponentDesignItemID9=CAP-0004
+ComponentSymbolReference9=CAP
+ComponentUpdate9=0
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=MirFol_db_local.DbLib
+ComponentDesignItemID10=CAP-0008
+ComponentSymbolReference10=CAP
+ComponentUpdate10=0
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=MirFol_db_local.DbLib
+ComponentDesignItemID11=CAP-0009
+ComponentSymbolReference11=CAP
+ComponentUpdate11=0
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=MirFol_db_local.DbLib
+ComponentDesignItemID12=CAP-0017
+ComponentSymbolReference12=CAP
+ComponentUpdate12=0
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=MirFol_db_local.DbLib
+ComponentDesignItemID13=CAP-0018
+ComponentSymbolReference13=CAP
+ComponentUpdate13=0
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=MirFol_db_local.DbLib
+ComponentDesignItemID14=CAP-0020
+ComponentSymbolReference14=CAP
+ComponentUpdate14=0
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=MirFol_db_local.DbLib
+ComponentDesignItemID15=CAP-0023
+ComponentSymbolReference15=CAP
+ComponentUpdate15=0
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=MirFol_db_local.DbLib
+ComponentDesignItemID16=CAP-0025
+ComponentSymbolReference16=CAP
+ComponentUpdate16=0
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=MirFol_db_local.DbLib
+ComponentDesignItemID17=CAP-0027
+ComponentSymbolReference17=CAP
+ComponentUpdate17=0
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=MirFol_db_local.DbLib
+ComponentDesignItemID18=FIL-0001
+ComponentSymbolReference18=IND_FB
+ComponentUpdate18=0
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name And Type
+ComponentLibraryIdentifier19=MirFol_db_local.DbLib
+ComponentDesignItemID19=RES-0003
+ComponentSymbolReference19=RES
+ComponentUpdate19=0
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name And Type
+ComponentLibraryIdentifier20=MirFol_db_local.DbLib
+ComponentDesignItemID20=RES-0004
+ComponentSymbolReference20=RES
+ComponentUpdate20=0
+ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Library Name And Type
+ComponentLibraryIdentifier21=MirFol_db_local.DbLib
+ComponentDesignItemID21=RES-0009
+ComponentSymbolReference21=RES
+ComponentUpdate21=0
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Library Name And Type
+ComponentLibraryIdentifier22=MirFol_db_local.DbLib
+ComponentDesignItemID22=RES-0019
+ComponentSymbolReference22=RES
+ComponentUpdate22=0
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Library Name And Type
+ComponentLibraryIdentifier23=MirFol_db_local.DbLib
+ComponentDesignItemID23=RES-0026
+ComponentSymbolReference23=RES
+ComponentUpdate23=0
+ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Library Name And Type
+ComponentLibraryIdentifier24=MirFol_db_local.DbLib
+ComponentDesignItemID24=RES-0027
+ComponentSymbolReference24=RES
+ComponentUpdate24=0
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name And Type
+ComponentLibraryIdentifier25=MirFol_db_local.DbLib
+ComponentDesignItemID25=RES-0028
+ComponentSymbolReference25=RES
+ComponentUpdate25=0
+ComponentIsDeviceSheet25=0
+ComponentLibIdentifierKind26=Library Name And Type
+ComponentLibraryIdentifier26=MirFol_db_local.DbLib
+ComponentDesignItemID26=RES-0029
+ComponentSymbolReference26=RES
+ComponentUpdate26=0
+ComponentIsDeviceSheet26=0
+ComponentLibIdentifierKind27=Library Name And Type
+ComponentLibraryIdentifier27=MirFol_db_local.DbLib
+ComponentDesignItemID27=RES-0033
+ComponentSymbolReference27=RES
+ComponentUpdate27=0
+ComponentIsDeviceSheet27=0
+ComponentLibIdentifierKind28=Library Name And Type
+ComponentLibraryIdentifier28=MirFol_db_local.DbLib
+ComponentDesignItemID28=RES-0034
+ComponentSymbolReference28=RES
+ComponentUpdate28=0
+ComponentIsDeviceSheet28=0
+ComponentLibIdentifierKind29=Library Name And Type
+ComponentLibraryIdentifier29=MirFol_db_local.DbLib
+ComponentDesignItemID29=RES-0042
+ComponentSymbolReference29=RES
+ComponentUpdate29=0
+ComponentIsDeviceSheet29=0
+ComponentLibIdentifierKind30=Library Name And Type
+ComponentLibraryIdentifier30=MirFol_db_local.DbLib
+ComponentDesignItemID30=RES-0050
+ComponentSymbolReference30=RES
+ComponentUpdate30=0
+ComponentIsDeviceSheet30=0
+ComponentLibIdentifierKind31=Library Name And Type
+ComponentLibraryIdentifier31=MirFol_db_local.DbLib
+ComponentDesignItemID31=RES-0051
+ComponentSymbolReference31=RES
+ComponentUpdate31=0
+ComponentIsDeviceSheet31=0
+ComponentLibIdentifierKind32=Library Name And Type
+ComponentLibraryIdentifier32=MirFol_db_local.DbLib
+ComponentDesignItemID32=RES-0052
+ComponentSymbolReference32=RES
+ComponentUpdate32=0
+ComponentIsDeviceSheet32=0
+ComponentLibIdentifierKind33=Library Name And Type
+ComponentLibraryIdentifier33=MirFol_db_local.DbLib
+ComponentDesignItemID33=RES-0053
+ComponentSymbolReference33=RES
+ComponentUpdate33=0
+ComponentIsDeviceSheet33=0
+ComponentLibIdentifierKind34=Library Name And Type
+ComponentLibraryIdentifier34=MirFol_db_local.DbLib
+ComponentDesignItemID34=RES-0054
+ComponentSymbolReference34=RES
+ComponentUpdate34=0
+ComponentIsDeviceSheet34=0
+ComponentLibIdentifierKind35=Library Name And Type
+ComponentLibraryIdentifier35=MirFol_db_local.DbLib
+ComponentDesignItemID35=RES-0058
+ComponentSymbolReference35=RES
+ComponentUpdate35=1
+ComponentIsDeviceSheet35=0
+ComponentLibIdentifierKind36=Library Name And Type
+ComponentLibraryIdentifier36=MirFol_lib.SchLib
+ComponentDesignItemID36=BAT_RND
+ComponentSymbolReference36=BAT_RND
+ComponentUpdate36=0
+ComponentIsDeviceSheet36=0
+ComponentLibIdentifierKind37=Library Name And Type
+ComponentLibraryIdentifier37=MirFol_lib.SchLib
+ComponentDesignItemID37=BOM_CON
+ComponentSymbolReference37=BOM_CON
+ComponentUpdate37=0
+ComponentIsDeviceSheet37=0
+ComponentLibIdentifierKind38=Library Name And Type
+ComponentLibraryIdentifier38=MirFol_lib.SchLib
+ComponentDesignItemID38=BUZ_POL
+ComponentSymbolReference38=BUZ_POL
+ComponentUpdate38=0
+ComponentIsDeviceSheet38=0
+ComponentLibIdentifierKind39=Library Name And Type
+ComponentLibraryIdentifier39=MirFol_lib.SchLib
+ComponentDesignItemID39=CON_1X03_COL
+ComponentSymbolReference39=CON_1X03_COL
+ComponentUpdate39=0
+ComponentIsDeviceSheet39=0
+ComponentLibIdentifierKind40=Library Name And Type
+ComponentLibraryIdentifier40=MirFol_lib.SchLib
+ComponentDesignItemID40=CON_2X20_ROW
+ComponentSymbolReference40=CON_2X20_ROW
+ComponentUpdate40=0
+ComponentIsDeviceSheet40=0
+ComponentLibIdentifierKind41=Library Name And Type
+ComponentLibraryIdentifier41=MirFol_lib.SchLib
+ComponentDesignItemID41=CON_GCT_MEM2055
+ComponentSymbolReference41=CON_GCT_MEM2055
+ComponentUpdate41=0
+ComponentIsDeviceSheet41=0
+ComponentLibIdentifierKind42=Library Name And Type
+ComponentLibraryIdentifier42=MirFol_lib.SchLib
+ComponentDesignItemID42=CON_HAN_HY911130A
+ComponentSymbolReference42=CON_HAN_HY911130A
+ComponentUpdate42=0
+ComponentIsDeviceSheet42=0
+ComponentLibIdentifierKind43=Library Name And Type
+ComponentLibraryIdentifier43=MirFol_lib.SchLib
+ComponentDesignItemID43=CON_HDMI_1.4+_A2
+ComponentSymbolReference43=CON_HDMI_1.4+_A2
+ComponentUpdate43=0
+ComponentIsDeviceSheet43=0
+ComponentLibIdentifierKind44=Library Name And Type
+ComponentLibraryIdentifier44=MirFol_lib.SchLib
+ComponentDesignItemID44=CON_HDMI_1.4+_MICRO_TYPE_D_A2
+ComponentSymbolReference44=CON_HDMI_1.4+_MICRO_TYPE_D_A2
+ComponentUpdate44=0
+ComponentIsDeviceSheet44=0
+ComponentLibIdentifierKind45=Library Name And Type
+ComponentLibraryIdentifier45=MirFol_lib.SchLib
+ComponentDesignItemID45=CON_NGFF_M-KEY_A2
+ComponentSymbolReference45=CON_NGFF_M-KEY_A2
+ComponentUpdate45=0
+ComponentIsDeviceSheet45=0
+ComponentLibIdentifierKind46=Library Name And Type
+ComponentLibraryIdentifier46=MirFol_lib.SchLib
+ComponentDesignItemID46=CON_USB_TYPE_C_16P
+ComponentSymbolReference46=CON_USB_TYPE_C_16P
+ComponentUpdate46=0
+ComponentIsDeviceSheet46=0
+ComponentLibIdentifierKind47=Library Name And Type
+ComponentLibraryIdentifier47=MirFol_lib.SchLib
+ComponentDesignItemID47=DIO_LED_GRN
+ComponentSymbolReference47=DIO_LED_GRN
+ComponentUpdate47=0
+ComponentIsDeviceSheet47=0
+ComponentLibIdentifierKind48=Library Name And Type
+ComponentLibraryIdentifier48=MirFol_lib.SchLib
+ComponentDesignItemID48=DIO_LED_RED
+ComponentSymbolReference48=DIO_LED_RED
+ComponentUpdate48=0
+ComponentIsDeviceSheet48=0
+ComponentLibIdentifierKind49=Library Name And Type
+ComponentLibraryIdentifier49=MirFol_lib.SchLib
+ComponentDesignItemID49=DIO_SHT_P2_KA
+ComponentSymbolReference49=DIO_SHT_P2_KA
+ComponentUpdate49=0
+ComponentIsDeviceSheet49=0
+ComponentLibIdentifierKind50=Library Name And Type
+ComponentLibraryIdentifier50=MirFol_lib.SchLib
+ComponentDesignItemID50=DIO_TVS_UNI_KA
+ComponentSymbolReference50=DIO_TVS_UNI_KA
+ComponentUpdate50=0
+ComponentIsDeviceSheet50=0
+ComponentLibIdentifierKind51=Library Name And Type
+ComponentLibraryIdentifier51=MirFol_lib.SchLib
+ComponentDesignItemID51=FUS
+ComponentSymbolReference51=FUS
+ComponentUpdate51=0
+ComponentIsDeviceSheet51=0
+ComponentLibIdentifierKind52=Library Name And Type
+ComponentLibraryIdentifier52=MirFol_lib.SchLib
+ComponentDesignItemID52=ICC_MAX_DS3231
+ComponentSymbolReference52=ICC_MAX_DS3231
+ComponentUpdate52=0
+ComponentIsDeviceSheet52=0
+ComponentLibIdentifierKind53=Library Name And Type
+ComponentLibraryIdentifier53=MirFol_lib.SchLib
+ComponentDesignItemID53=ICC_MCP_USB2514_QFN36
+ComponentSymbolReference53=ICC_MCP_USB2514_QFN36
+ComponentUpdate53=0
+ComponentIsDeviceSheet53=0
+ComponentLibIdentifierKind54=Library Name And Type
+ComponentLibraryIdentifier54=MirFol_lib.SchLib
+ComponentDesignItemID54=ICC_NXP_74LVC2G17_SOT
+ComponentSymbolReference54=ICC_NXP_74LVC2G17_SOT
+ComponentUpdate54=0
+ComponentIsDeviceSheet54=0
+ComponentLibIdentifierKind55=Library Name And Type
+ComponentLibraryIdentifier55=MirFol_lib.SchLib
+ComponentDesignItemID55=ICC_NXP_LM75B
+ComponentSymbolReference55=ICC_NXP_LM75B
+ComponentUpdate55=0
+ComponentIsDeviceSheet55=0
+ComponentLibIdentifierKind56=Library Name And Type
+ComponentLibraryIdentifier56=MirFol_lib.SchLib
+ComponentDesignItemID56=ICC_TXI_PCM510x_TSSOP
+ComponentSymbolReference56=ICC_TXI_PCM510x_TSSOP
+ComponentUpdate56=0
+ComponentIsDeviceSheet56=0
+ComponentLibIdentifierKind57=Library Name And Type
+ComponentLibraryIdentifier57=MirFol_lib.SchLib
+ComponentDesignItemID57=ICC_TXI_TLV62585_PDRL
+ComponentSymbolReference57=ICC_TXI_TLV62585_PDRL
+ComponentUpdate57=0
+ComponentIsDeviceSheet57=0
+ComponentLibIdentifierKind58=Library Name And Type
+ComponentLibraryIdentifier58=MirFol_lib.SchLib
+ComponentDesignItemID58=ICC_TXI_TPS25221_DBV
+ComponentSymbolReference58=ICC_TXI_TPS25221_DBV
+ComponentUpdate58=0
+ComponentIsDeviceSheet58=0
+ComponentLibIdentifierKind59=Library Name And Type
+ComponentLibraryIdentifier59=MirFol_lib.SchLib
+ComponentDesignItemID59=IND
+ComponentSymbolReference59=IND
+ComponentUpdate59=0
+ComponentIsDeviceSheet59=0
+ComponentLibIdentifierKind60=Library Name And Type
+ComponentLibraryIdentifier60=MirFol_lib.SchLib
+ComponentDesignItemID60=MOD_RPI_CM4_VAR2
+ComponentSymbolReference60=MOD_RPI_CM4_VAR2
+ComponentUpdate60=0
+ComponentIsDeviceSheet60=0
+ComponentLibIdentifierKind61=Library Name And Type
+ComponentLibraryIdentifier61=MirFol_lib.SchLib
+ComponentDesignItemID61=MOD_SSD_NGFF
+ComponentSymbolReference61=MOD_SSD_NGFF
+ComponentUpdate61=0
+ComponentIsDeviceSheet61=0
+ComponentLibIdentifierKind62=Library Name And Type
+ComponentLibraryIdentifier62=MirFol_lib.SchLib
+ComponentDesignItemID62=OPT_VSH_TSOP34XXX
+ComponentSymbolReference62=OPT_VSH_TSOP34XXX
+ComponentUpdate62=0
+ComponentIsDeviceSheet62=0
+ComponentLibIdentifierKind63=Library Name And Type
+ComponentLibraryIdentifier63=MirFol_lib.SchLib
+ComponentDesignItemID63=OSC_XTL_P4
+ComponentSymbolReference63=OSC_XTL_P4
+ComponentUpdate63=0
+ComponentIsDeviceSheet63=0
+ComponentLibIdentifierKind64=Library Name And Type
+ComponentLibraryIdentifier64=MirFol_lib.SchLib
+ComponentDesignItemID64=OSC_XTL_P4_XNNX
+ComponentSymbolReference64=OSC_XTL_P4_XNNX
+ComponentUpdate64=0
+ComponentIsDeviceSheet64=0
+ComponentLibIdentifierKind65=Library Name And Type
+ComponentLibraryIdentifier65=MirFol_lib.SchLib
+ComponentDesignItemID65=PCB_FID_RND
+ComponentSymbolReference65=PCB_FID_RND
+ComponentUpdate65=0
+ComponentIsDeviceSheet65=0
+ComponentLibIdentifierKind66=Library Name And Type
+ComponentLibraryIdentifier66=MirFol_lib.SchLib
+ComponentDesignItemID66=PCB_LAYER_STACKUP
+ComponentSymbolReference66=PCB_LAYER_STACKUP
+ComponentUpdate66=0
+ComponentIsDeviceSheet66=0
+ComponentLibIdentifierKind67=Library Name And Type
+ComponentLibraryIdentifier67=MirFol_lib.SchLib
+ComponentDesignItemID67=PCB_MECH_MH
+ComponentSymbolReference67=PCB_MECH_MH
+ComponentUpdate67=0
+ComponentIsDeviceSheet67=0
+ComponentLibIdentifierKind68=Library Name And Type
+ComponentLibraryIdentifier68=MirFol_lib.SchLib
+ComponentDesignItemID68=PCB_MECH_WRT_WA-SMSI
+ComponentSymbolReference68=PCB_MECH_WRT_WA-SMSI
+ComponentUpdate68=0
+ComponentIsDeviceSheet68=0
+ComponentLibIdentifierKind69=Library Name And Type
+ComponentLibraryIdentifier69=MirFol_lib.SchLib
+ComponentDesignItemID69=PCB_TP_DBG
+ComponentSymbolReference69=PCB_TP_DBG
+ComponentUpdate69=0
+ComponentIsDeviceSheet69=0
+ComponentLibIdentifierKind70=Library Name And Type
+ComponentLibraryIdentifier70=MirFol_lib.SchLib
+ComponentDesignItemID70=RES_ARR_X4_A2
+ComponentSymbolReference70=RES_ARR_X4_A2
+ComponentUpdate70=0
+ComponentIsDeviceSheet70=0
+ComponentLibIdentifierKind71=Library Name And Type
+ComponentLibraryIdentifier71=MirFol_lib.SchLib
+ComponentDesignItemID71=SKT_BAT_RND_P2
+ComponentSymbolReference71=SKT_BAT_RND_P2
+ComponentUpdate71=0
+ComponentIsDeviceSheet71=0
+ComponentLibIdentifierKind72=Library Name And Type
+ComponentLibraryIdentifier72=MirFol_lib.SchLib
+ComponentDesignItemID72=SWI_SPDT_3P_SH
+ComponentSymbolReference72=SWI_SPDT_3P_SH
+ComponentUpdate72=0
+ComponentIsDeviceSheet72=0
+ComponentLibIdentifierKind73=Library Name And Type
+ComponentLibraryIdentifier73=MirFol_lib.SchLib
+ComponentDesignItemID73=SWI_TACT_4P_AABB
+ComponentSymbolReference73=SWI_TACT_4P_AABB
+ComponentUpdate73=0
+ComponentIsDeviceSheet73=0
+ComponentLibIdentifierKind74=Library Name And Type
+ComponentLibraryIdentifier74=MirFol_lib.SchLib
+ComponentDesignItemID74=TRA_BJT_NPN_DIG_BEC
+ComponentSymbolReference74=TRA_BJT_NPN_DIG_BEC
+ComponentUpdate74=0
+ComponentIsDeviceSheet74=0
+ComponentLibIdentifierKind75=Library Name And Type
+ComponentLibraryIdentifier75=MirFol_lib.SchLib
+ComponentDesignItemID75=TRA_PMOS_GSD
+ComponentSymbolReference75=TRA_PMOS_GSD
+ComponentUpdate75=0
+ComponentIsDeviceSheet75=0
+
+[Comparison Options]
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[Parameter Manager Custom Column Order]
+<Schematic>=Value,"Package (Case)","Component Subtype","Component Type","Mounting Type",MPN,Manufacturer
+

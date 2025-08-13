@@ -1,0 +1,26 @@
+Altium Designer Pick and Place Locations
+E:\Pick Place for BP_LCD_Panel_v1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       17.05.22
+Time:       08:58
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Center-X(mm)","Center-Y(mm)","Rotation","Layer","Footprint","Description","MPN"
+"J3","8pin (2x4pin)","77.7500","45.2900","270","BottomLayer","CON_IDC_SMD_P254_2X04","Connector; 2 Row;","GENERIC"
+"C2","10uF","32.8200","44.8300","0","TopLayer","CAP_0603_R","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0603 (1608);","GENERIC"
+"R8","22R","37.4000","69.1000","90","TopLayer","RES_0603_R","Resistor; Thick Film; 22R; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);","TBD"
+"R7","22R","35.8000","69.1000","90","TopLayer","RES_0603_R","Resistor; Thick Film; 22R; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);","TBD"
+"R6","22R","33.1500","53.5000","270","TopLayer","RES_0603_R","Resistor; Thick Film; 22R; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);","TBD"
+"R5","22R","37.9500","53.5000","270","TopLayer","RES_0603_R","Resistor; Thick Film; 22R; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);","TBD"
+"R4","22R","34.7500","53.5000","270","TopLayer","RES_0603_R","Resistor; Thick Film; 22R; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);","TBD"
+"R3","22R","36.3500","53.5000","270","TopLayer","RES_0603_R","Resistor; Thick Film; 22R; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);","TBD"
+"R2","22R","39.0000","69.1000","90","TopLayer","RES_0603_R","Resistor; Thick Film; 22R; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);","TBD"
+"R1","22R","40.6000","69.1000","90","TopLayer","RES_0603_R","Resistor; Thick Film; 22R; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);","TBD"
+"J2","20pin (2x10pin)","45.0000","37.5000","360","BottomLayer","CON_IDC_SMD_P254_2X10","Connector; 2 Row;","GENERIC"
+"J1","26pin (2x13pin)","26.2500","61.4500","360","TopLayer","CON_HDR_P254_2X13_STR_SMD_R","Connector; 2 Row;","GENERIC"
+"C1","10uF","53.2800","43.6700","180","TopLayer","CAP_0603_R","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0603 (1608);","GENERIC"
